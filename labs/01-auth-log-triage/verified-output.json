@@ -1,0 +1,14 @@
+{
+  "dataset": "synthetic",
+  "events": 9,
+  "alerts": [
+    {
+      "time": "2026-10-23T12:04:30Z",
+      "user": "lab-user",
+      "source": "192.0.2.10",
+      "failures": 5,
+      "reason": "Success after repeated failures within five minutes"
+    }
+  ],
+  "checks": "passed"
+}
