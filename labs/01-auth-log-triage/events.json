@@ -1,0 +1,56 @@
+[
+  {
+    "time": "2026-10-23T12:00:00Z",
+    "user": "lab-user",
+    "source": "192.0.2.10",
+    "result": "failure"
+  },
+  {
+    "time": "2026-10-23T12:01:00Z",
+    "user": "lab-user",
+    "source": "192.0.2.10",
+    "result": "failure"
+  },
+  {
+    "time": "2026-10-23T12:02:00Z",
+    "user": "lab-user",
+    "source": "192.0.2.10",
+    "result": "failure"
+  },
+  {
+    "time": "2026-10-23T12:03:00Z",
+    "user": "lab-user",
+    "source": "192.0.2.10",
+    "result": "failure"
+  },
+  {
+    "time": "2026-10-23T12:04:00Z",
+    "user": "lab-user",
+    "source": "192.0.2.10",
+    "result": "failure"
+  },
+  {
+    "time": "2026-10-23T12:04:30Z",
+    "user": "lab-user",
+    "source": "192.0.2.10",
+    "result": "success"
+  },
+  {
+    "time": "2026-10-23T12:06:00Z",
+    "user": "normal-user",
+    "source": "198.51.100.20",
+    "result": "success"
+  },
+  {
+    "time": "2026-10-23T12:07:00Z",
+    "user": "typo-user",
+    "source": "203.0.113.30",
+    "result": "failure"
+  },
+  {
+    "time": "2026-10-23T12:07:10Z",
+    "user": "typo-user",
+    "source": "203.0.113.30",
+    "result": "success"
+  }
+]
